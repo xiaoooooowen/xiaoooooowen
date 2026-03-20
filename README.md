@@ -22,7 +22,7 @@
 <a name="chinese-version"></a>
 <div align="center">
 
-# 🇨🇳 中文版介绍
+# 🇨🇳
 
 </div>
 
@@ -100,7 +100,7 @@
 <a name="english-version"></a>
 <div align="center">
 
-# 🇬🇧 English Version
+# 🇬🇧
 
 </div>
 
